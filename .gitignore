@@ -6,3 +6,6 @@ __pycache__
 
 # Ignore all data files
 /data
+/graph_code
+/safe_rl.egg-info
+
